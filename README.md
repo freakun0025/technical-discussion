@@ -14,4 +14,4 @@ This is a colab [example](https://github.com/freakun0025/technical-discussion/bl
 This is my [Gist](https://gist.github.com/freakun0025/59ee77d6517d7025d83d6128b32e7282)
 
 ### Image
-
+[Image](https://github.com/freakun0025/technical-discussion/issues/1#issue-2056695257)
